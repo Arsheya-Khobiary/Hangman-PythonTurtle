@@ -12,6 +12,5 @@ ENJOY!!
 
 
 
-
-![screenshot] (GameWon.png)
-![screenshot] (NearDeath.png)
+![Screenshot](GameWon.png)
+![Screenshot](NearDeath.png)
